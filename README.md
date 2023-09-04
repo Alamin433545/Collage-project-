@@ -1,1 +1,1 @@
-# Collage-project-
+# figma-school
